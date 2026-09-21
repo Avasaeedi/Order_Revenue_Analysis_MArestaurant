@@ -1,6 +1,6 @@
 # Restaurant Order & Revenue Analysis | SQL 
 # Client: Local Melbourne restaurant
-**Project period:** September–December 2025
+# Project period:** September–December 2025
 
 
 This project uses SQL to analyse restaurant menu and order data. It explores menu pricing, customer order behaviour, item popularity and high-value orders to support data-informed restaurant decisions.
