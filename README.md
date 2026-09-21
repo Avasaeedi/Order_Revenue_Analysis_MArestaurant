@@ -1,4 +1,6 @@
-# Restaurant Order & Revenue Analysis | SQL | Client: Local Melbourne restaurant in Lygon street
+# Restaurant Order & Revenue Analysis | SQL 
+# Client: Local Melbourne restaurant
+**Project period:** September–December 2025
 
 
 This project uses SQL to analyse restaurant menu and order data. It explores menu pricing, customer order behaviour, item popularity and high-value orders to support data-informed restaurant decisions.
@@ -53,26 +55,9 @@ This section joins order and menu data to:
 * Identify the top five highest-spend orders
 * Review the category mix within high-value orders
 
-## SQL Skills Demonstrated
 
-* `SELECT`, `WHERE` and `ORDER BY`
-* Aggregations: `COUNT()` and `AVG()`
-* `GROUP BY` and `HAVING`
-* `LEFT JOIN`
-* Subqueries
-* `LIMIT`
-* Translating business questions into SQL analysis
 
-## Repository Structure
+## Connect
 
-```text
-Objective01- MA_Res_Project.sql    # Menu portfolio and pricing analysis
-Objective02_order_analyse.txt      # Order activity analysis
-Objective03_revenue_analysis.txt   # Revenue and high-value order analysis
-TotalProjectObjectives.md          # Project overview
-```
-
-## Timeline of the project
-
-Ava Saeedi
+Ava Saeedi  
 [LinkedIn](https://www.linkedin.com/in/avasaeedi)
